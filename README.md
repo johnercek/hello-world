@@ -1,2 +1,7 @@
 # hello-world
-tutorial project
+
+having fun 
+exploring mazes
+need coffee
+
+
